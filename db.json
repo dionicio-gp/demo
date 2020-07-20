@@ -10,5 +10,146 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "loads": [{
+  "id": 1,
+  "loadType": "Goddard",
+  "origin": "Gonghe",
+  "destination": "Maoya",
+  "loadDate": "15/05/2019",
+  "status": "Abierta"
+}, {
+  "id": 2,
+  "loadType": "Leonanie",
+  "origin": "Parawan",
+  "destination": "Na Khu",
+  "loadDate": "14/02/2020",
+  "status": "Cerrada"
+}, {
+  "id": 3,
+  "loadType": "Jarrid",
+  "origin": "Bloomington",
+  "destination": "Ughelli",
+  "loadDate": "17/09/2019",
+  "status": "Abierta"
+}, {
+  "id": 4,
+  "loadType": "Mariel",
+  "origin": "Huangmu",
+  "destination": "Bulgan",
+  "loadDate": "03/02/2019",
+  "status": "Cerrada"
+}, {
+  "id": 5,
+  "loadType": "Rosamond",
+  "origin": "Tagasilay",
+  "destination": "Marihatag",
+  "loadDate": "20/12/2018",
+  "status": "Cerrada"
+}, {
+  "id": 6,
+  "loadType": "Pamelina",
+  "origin": "Tumcon Ilawod",
+  "destination": "Shanghu",
+  "loadDate": "20/01/2020",
+  "status": "Abierta"
+}, {
+  "id": 7,
+  "loadType": "Elsworth",
+  "origin": "Carregueira",
+  "destination": "Đạ Tẻh",
+  "loadDate": "23/02/2020",
+  "status": "Cerrada"
+}, {
+  "id": 8,
+  "loadType": "Alexandr",
+  "origin": "Putrajaya",
+  "destination": "Sheli",
+  "loadDate": "18/06/2019",
+  "status": "Cerrada"
+}, {
+  "id": 9,
+  "loadType": "Amalia",
+  "origin": "Digah",
+  "destination": "Sunja",
+  "loadDate": "05/07/2020",
+  "status": "Cerrada"
+}, {
+  "id": 10,
+  "loadType": "Bill",
+  "origin": "Hafnarfjörður",
+  "destination": "Chama",
+  "loadDate": "17/04/2020",
+  "status": "Cerrada"
+}, {
+  "id": 11,
+  "loadType": "Lorenza",
+  "origin": "København",
+  "destination": "Almelo",
+  "loadDate": "14/02/2020",
+  "status": "Abierta"
+}, {
+  "id": 12,
+  "loadType": "Jaquenetta",
+  "origin": "Maple Plain",
+  "destination": "Penisihan",
+  "loadDate": "03/01/2019",
+  "status": "Cerrada"
+}, {
+  "id": 13,
+  "loadType": "Paule",
+  "origin": "Borgo Maggiore",
+  "destination": "Mīrābād",
+  "loadDate": "27/12/2018",
+  "status": "Abierta"
+}, {
+  "id": 14,
+  "loadType": "Jacklin",
+  "origin": "Guanting",
+  "destination": "Baoyou",
+  "loadDate": "20/05/2019",
+  "status": "Abierta"
+}, {
+  "id": 15,
+  "loadType": "Rosene",
+  "origin": "Al Qurayshīyah",
+  "destination": "Tarrafal",
+  "loadDate": "09/04/2019",
+  "status": "Cerrada"
+}, {
+  "id": 16,
+  "loadType": "Thurston",
+  "origin": "Skatepark",
+  "destination": "Nūrābād",
+  "loadDate": "04/10/2019",
+  "status": "Abierta"
+}, {
+  "id": 17,
+  "loadType": "Alfonso",
+  "origin": "Tsukuba",
+  "destination": "Bronx",
+  "loadDate": "05/01/2020",
+  "status": "Cerrada"
+}, {
+  "id": 18,
+  "loadType": "Nikaniki",
+  "origin": "Camino Real",
+  "destination": "La Paz",
+  "loadDate": "23/07/2019",
+  "status": "Cerrada"
+}, {
+  "id": 19,
+  "loadType": "Saxon",
+  "origin": "Candelaria",
+  "destination": "Grojec",
+  "loadDate": "08/04/2020",
+  "status": "Abierta"
+}, {
+  "id": 20,
+  "loadType": "Brod",
+  "origin": "Driyorejo",
+  "destination": "Qaxa",
+  "loadDate": "10/01/2019",
+  "status": "Abierta"
+}]
 }
